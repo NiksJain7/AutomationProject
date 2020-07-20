@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="168" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="168" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+      <class name="firstMavenProjectObjects.FirstClass">
+        <test-method status="PASS" signature="beforemethod3()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforemethod3" is-config="true" duration-ms="20" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod3 -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforemethod1" is-config="true" duration-ms="2" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="method()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="method" duration-ms="2" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforemethod1" is-config="true" duration-ms="1" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="method1" duration-ms="4" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="beforemethod1()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="beforemethod1" is-config="true" duration-ms="1" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="method2" duration-ms="11" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:firstMavenProjectObjects.FirstClass@57855c9a]" name="aftermethod" is-config="true" duration-ms="1" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- firstMavenProjectObjects.FirstClass -->
+      <class name="firstMavenProjectObjects.SecondClass">
+        <test-method status="PASS" signature="provider()[pri:0, instance:firstMavenProjectObjects.SecondClass@3b084709]" name="provider" duration-ms="16" started-at="2020-07-15T15:30:14 IST" finished-at="2020-07-15T15:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provider -->
+      </class> <!-- firstMavenProjectObjects.SecondClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
